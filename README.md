@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning .NET and AWS  
   
-
-- 🔨 Current personal project: Scamflag (https://github.com/pierre-campoverde/scamflag-frontend)  
   
 
 <br/>  
